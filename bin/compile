@@ -77,6 +77,7 @@ rm lib/data/interactors/default_admin_interactor.dart
 rm -r lib/data/repositories/admin
 rm lib/domain/interactors/admin_interactor.dart
 rm -r lib/domain/repositories/admin
+rm lib/common/routes/admin_app_router.dart
 
 
 print "Running flutter clean command."
